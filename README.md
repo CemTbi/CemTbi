@@ -11,6 +11,7 @@ At those moments I didn't really thought more about it, but when I finally did m
 I found programming.
 
 Interested in:
+-Entrepreneurship
 -Programming
 -Mathematics
 -Machine Learning
