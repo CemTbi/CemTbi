@@ -2,7 +2,7 @@ Hello
 
 My name is Cem and I'm currently an A-levels student.
 
-I've been programming for 5 months now and gained a significant knowledge in the Java programming language.
+I've been programming for 3 years now and gained a significant knowledge in the Java programming language.
 I'm pursuing a career as a Software Engineer since I ever heard of it.
 
 When I got my first computer, I always asked myself "How does all this work?".
